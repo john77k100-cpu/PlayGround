@@ -1,1 +1,1 @@
-{"scripts":{"start":"npx --yes vite --host 0.0.0.0 --port 3002","build":"npx --yes vite build"},"dependencies":{"three":"^0.180.0","vite":"^7.1.7"}}
+{"scripts":{"start":"npx --yes vite --host 0.0.0.0 --port 3002","preview":"npx --yes vite preview","build":"npx --yes vite build"},"dependencies":{"three":"^0.180.0","vite":"^7.1.7"}}
